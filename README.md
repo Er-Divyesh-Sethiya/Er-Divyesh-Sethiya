@@ -10,5 +10,5 @@
 - vi) Report Builder Tools (Power BI Report Builder)
 - vii) R Language
 - viii) Machine Learning
-- 💞️ I’m looking to collaborate on Data Analysis, Business Intelligence, Data Cleaning, Database and Data Modelling
+- 💞️ I’m looking to collaborate on Data Analysis, Business Intelligence, Data Cleaning, Data Warehouse and Data Modelling
 - 📫 How to reach me divyeshsethiya@outlook.com
