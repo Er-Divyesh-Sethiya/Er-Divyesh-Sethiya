@@ -3,10 +3,10 @@
 - 👀 I’m interested in development, analysis and new technologies
 - 🌱 I’m currently working on technologies namely -
 - i) Python
-- ii) BI Tools (Power BI, Tableau, Sisense)
+- ii) BI Tools (Power BI, Tableau)
 - iii) Database
 - iv) SQL (MySQL, SAS SQL)
-- v) ETL Tools (SSIS)
+- v) ETL Tools 
 - vi) Report Builder Tools (Power BI Report Builder)
 - vii) R Language
 - viii) Machine Learning
