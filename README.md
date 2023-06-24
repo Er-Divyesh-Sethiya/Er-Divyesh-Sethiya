@@ -5,9 +5,8 @@
 - i) Python
 - ii) BI Tools (Tableau)
 - iii) Database
-- iv) SQL (MySQL, SAS SQL)
-- v) Report Builder Tools (Power BI Report Builder)
-- vi) R Language
-- vii) Machine Learning
+- iv) SQL (MySQL)
+- v) Machine Learning
+- vi) AWS Sagemaker Machine Learning 
 - 💞️ I’m looking to collaborate on Computer Vision, Image processing, Business Intelligence, Business Strategy
 - 📫 How to reach me divyeshs1711@outlook.com
